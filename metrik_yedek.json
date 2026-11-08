@@ -1,0 +1,9 @@
+{
+  "metrikler": {
+    "Ethernet 6": 25,
+    "Wi-Fi": 50
+  },
+  "rotalar": [
+    "8.8.8.8"
+  ]
+}

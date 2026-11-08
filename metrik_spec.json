@@ -1,0 +1,18 @@
+{
+  "hedefler": [
+    "8.8.8.8"
+  ],
+  "en_iyi_hat": {
+    "ad": "Wi-Fi",
+    "gecit": "192.168.1.1",
+    "ifindex": 10
+  },
+  "diger_hat": {
+    "ad": "Ethernet 6",
+    "gecit": "10.145.240.239",
+    "ifindex": 27
+  },
+  "tek_hat_modu": true,
+  "en_iyi_skor": 252.6,
+  "diger_saglikli": false
+}
